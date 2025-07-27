@@ -137,7 +137,7 @@ Attach the below inline policy also for the same user
 
 {
   "Version": "2012-10-17",
-  "Statement": \[
+  "Statement": [
     {
       "Sid": "VisualEditor0",
       "Effect": "Allow",
